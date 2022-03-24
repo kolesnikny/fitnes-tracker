@@ -1,0 +1,11 @@
+{
+  "name": "fitnes-tracker",
+  "version": "0.0.1",
+  "description": "",
+  "private":true,
+  "scripts": {
+    "start:backend": "node ./server/server"
+  },
+  "author": "Mykola Kolisnyk",
+  "license": "ISC"
+}
